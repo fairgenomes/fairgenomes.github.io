@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FAIR genomes"
+title                    : #"FAIR genomes"
 title_separator          : "-"
-subtitle                 : "maximize (re)use of NGS data in research and healthcare"
+subtitle                 : #"maximize (re)use of NGS data in research and healthcare"
 name                     : "FAIR genomes"
 description              : "An amazing website."
 url                      : "fairgenomes.github.io"
