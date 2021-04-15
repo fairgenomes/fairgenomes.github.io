@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "FAIR genomes"
 title_separator          : "-"
 subtitle                 : "maximize (re)use of NGS data in research and healthcare"
-name                     : "Morris Swertz"
+name                     : "FAIR genomes"
 description              : "An amazing website."
 url                      : "fairgenomes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "fairgenomes/fairgenomes.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/fair_genomes_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "FAIR GENOMES"
+  avatar           : "/assets/images/fair_genomes_logo_notext.jpg"
+  bio              : #"I am an **amazing** person."
+  location         : #"Somewhere"
+  email            : "m.a.swertz@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
