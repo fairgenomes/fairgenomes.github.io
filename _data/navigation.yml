@@ -1,0 +1,7 @@
+main:
+  - title: "News"
+    url: /year-archive/
+  - title: "Tools"
+    url: /page-archive/
+  - title: "About us"
+    url: /about/
