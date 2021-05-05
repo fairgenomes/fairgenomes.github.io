@@ -15,7 +15,7 @@ The FAIR genomes project is a ZON-MW funded national coordination action to unit
 
 Our FAIRification framework consists of multiple components:
 * an Ethical Legal Societal Issues (ELSI) framework that defines guidelines for secondary use of data
-* a standardized semantic [metadata scheme](https://github.com/fairgenomes/information/tree/master/fairgenomes_semantic_model) to describe various aspects (patients and their clinical data, samples, assays, analysis procedures, consent) of the  genomics data in a human and machine interpretable format
+* a standardized semantic [metadata scheme](https://github.com/fairgenomes/fairgenomes-semantic-model) to describe various aspects (patients and their clinical data, samples, assays, analysis procedures, consent) of the  genomics data in a human and machine interpretable format
 * a [metadata codebook](https://decor.nictiz.nl/art-decor/decor-datasets--fairgenomes-?id=2.16.840.1.113883.2.4.3.11.60.120.1.0&effectiveDate=2020-07-20T08%3A52%3A23&conceptId=2.16.840.1.113883.2.4.3.11.60.120.2.9&conceptEffectiveDate=2020-07-20T08%3A52%3A23 ) that meets the requirements of the NICTIZ national standard organisation
 * an implementation of the semantic metadata scheme in different electronic Case Report Form (eCRF) capture systems and [MOLGENIS software](https://fairgenomes-acc.gcc.rug.nl/)
 * several supporting tools such as [VARDA](https://vkgl.molgeniscloud.org/) for collecting variants and their pathogenicity classifications from clinical diagnostics labs, and [Mutalyzer](https://mutalyzer.nl/) for checking the correctness of genetic variant descriptions
